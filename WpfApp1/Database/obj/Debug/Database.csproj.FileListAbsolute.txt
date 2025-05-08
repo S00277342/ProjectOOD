@@ -1,0 +1,15 @@
+C:\Users\Titouan\source\repos\WpfApp1\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\Titouan\source\repos\WpfApp1\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\Database.exe.config
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\Database.exe
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\Database.pdb
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\EntityFramework.dll
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\WpfApp1.exe
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\WpfApp1.pdb
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\WpfApp1.exe.config
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\EntityFramework.xml
+C:\Users\Titouan\source\repos\WpfApp1\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Titouan\source\repos\WpfApp1\Database\obj\Debug\Database.csproj.Up2Date
+C:\Users\Titouan\source\repos\WpfApp1\Database\obj\Debug\Database.exe
+C:\Users\Titouan\source\repos\WpfApp1\Database\obj\Debug\Database.pdb
