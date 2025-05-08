@@ -1,0 +1,9 @@
+﻿<Window x:Class="PSGPathToGlory.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PSG - Road to Glory" Height="720" Width="480">
+    <Grid>
+        <!-- Le frame qui va afficher dynamiquement les pages -->
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

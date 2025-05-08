@@ -1,0 +1,74 @@
+﻿<Page x:Class="PSGPathToGlory.Pages.PlayerDetails"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="PlayerDetails">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" Background="#FF1E2A38" Margin="0,0,0,10">
+            <Image Source="psg_logo.png" Height="50" Width="50" Margin="10,0" VerticalAlignment="Center"/>
+            <TextBlock Text="Paris Saint-Germain" FontSize="24" FontWeight="Bold"
+               Foreground="White" VerticalAlignment="Center"
+               Margin="10,0" HorizontalAlignment="Center"/>
+        </DockPanel>
+
+        <Grid Grid.Row="1" Margin="0,10,0,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="← Back" 
+                Grid.Row="0" Grid.Column="0"
+                HorizontalAlignment="Left" VerticalAlignment="Top" 
+                Margin="10,10,0,0" Padding="10,5"
+                Background="#FF1E2A38" Foreground="White"
+                FontWeight="Bold" BorderBrush="Transparent"
+                Click="BackButton_Click"/>
+
+            <Image x:Name="img" Grid.Row="0" Grid.ColumnSpan="2" Height="150" Width="150" HorizontalAlignment="Left" Margin="150,10,0,10"/>
+
+            <StackPanel Grid.Row="1" Grid.Column="0" Margin="20,0,10,0">
+                <TextBlock Text="Name:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Name" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Age:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Age" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Position:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Pos" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Number:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Num" Margin="0,0,0,10" FontSize="18"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,0,20,0" HorizontalAlignment="Right">
+                <TextBlock Text="Nationality:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Natio" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Strong foot:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Foot" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Market value:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Value" Margin="0,0,0,10" FontSize="18"/>
+                <TextBlock Text="Height:" FontWeight="Bold" FontSize="20"/>
+                <TextBlock x:Name="tbx_Height" Margin="0,0,0,10" FontSize="18"/>
+            </StackPanel>
+
+            <Border Grid.Row="2" Grid.ColumnSpan="2" Background="#F9F9F9" BorderBrush="Gray" BorderThickness="1" Margin="10,20,10,0" Padding="10">
+                <TextBlock x:Name="tbx_qual" TextWrapping="Wrap" FontSize="16"/>
+            </Border>
+        </Grid>
+
+        <DockPanel Grid.Row="2" Background="#FF1E2A38">
+            <Button x:Name="bt_players" Content="Team Overview" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" BorderBrush="Transparent" Click="bt_players_Click"/>
+            <Button x:Name="bt_team" Content="Lineup" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" FontWeight="Bold" Click="bt_team_Click"/>
+            <Button x:Name="bt_matches" Content="Matches" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" BorderBrush="Transparent" Click="bt_matches_Click"/>
+        </DockPanel>
+    </Grid>
+</Page>

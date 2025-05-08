@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|c:\\users\\titouan\\source\\repos\\wpfapp1\\wpfapp1\\pages\\matchdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\matchdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E65297D-9010-41CF-9E71-B9DD2B9C38FD}|Database\\Database.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E65297D-9010-41CF-9E71-B9DD2B9C38FD}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\playerdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\playerdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\matchdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\matchdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\icmatchdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\icmatchdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\lineup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\lineup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\lineup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\lineup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\teamoverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\teamoverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\teamoverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\teamoverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\playerdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\playerdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\psg_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\psg_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\matches.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\matches.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\matches.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\matches.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\pages\\icmatchdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\pages\\icmatchdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EFE054DF-9665-4F78-9B3F-365E34467412}|WpfApp1\\PSGPathToGlory.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TacticalPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TacticalPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TacticalPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TacticalPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TeamOverviewPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TeamOverviewPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TeamOverviewPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Pages\\TeamOverviewPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Player.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Player.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Player.cs",
+              "RelativeToolTip": "WpfApp1\\Player.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwGwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:06:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lineup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Lineup.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Lineup.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Lineup.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\Lineup.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:19:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\PlayerDetails.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\PlayerDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\PlayerDetails.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\PlayerDetails.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:49:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAQwNkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:51:01.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatchDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\MatchDetailPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\MatchDetailPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\MatchDetailPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\MatchDetailPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T22:09:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lineup.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Lineup.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Lineup.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Lineup.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Lineup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T22:07:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamOverview.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverview.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverview.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverview.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverview.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:05:37.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\MatchDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\MatchDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\MatchDetailPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\MatchDetailPage.xaml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwDsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:16:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICMatchDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\ICMatchDetailPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\ICMatchDetailPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\ICMatchDetailPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\ICMatchDetailPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T23:49:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\PlayerDetails.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\PlayerDetails.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\PlayerDetails.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\PlayerDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T22:09:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamOverview.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverview.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverview.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverview.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverview.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T22:01:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "psg_logo.png - PNG [1280x1281, 32\u00A0bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\psg_logo.png",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\psg_logo.png",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\psg_logo.png - PNG [1280x1281, 32\u00A0bits, PNG]",
+              "RelativeToolTip": "WpfApp1\\Pages\\psg_logo.png - PNG [1280x1281, 32\u00A0bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-29T21:39:45.669Z",
+              "EditorCaption": " - PNG [1280x1281, 32\u00A0bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Matches.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Matches.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Matches.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Matches.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\Matches.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T00:05:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Matches.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Matches.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\Matches.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\Matches.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\Matches.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:39:42.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICMatchDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\ICMatchDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\ICMatchDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\ICMatchDetailPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\ICMatchDetailPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:49:43.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamOverviewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:36:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeamOverviewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:37:58.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TacticalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TacticalPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\TacticalPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:38:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TacticalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:37:39.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TacticalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\TacticalPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:19:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamOverviewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverviewPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:37:44.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TacticalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TacticalPage.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TacticalPage.xaml",
+              "RelativeToolTip": "WpfApp1\\Pages\\TacticalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:37:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T21:34:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeamOverviewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Titouan\\source\\repos\\WpfApp1\\WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Pages\\TeamOverviewPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:18:21.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

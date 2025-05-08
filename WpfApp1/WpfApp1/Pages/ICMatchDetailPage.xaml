@@ -1,0 +1,92 @@
+﻿<Page x:Class="PSGPathToGlory.Pages.ICMatchDetailPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="ICMatchDetailPage">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0" Background="#FF1E2A38" Margin="0,0,0,10">
+            <Image Source="psg_logo.png" Height="50" Width="50" Margin="10,0" VerticalAlignment="Center"/>
+            <TextBlock Text="Paris Saint-Germain" FontSize="24" FontWeight="Bold"
+                       Foreground="White" VerticalAlignment="Center"
+                       Margin="10,0" HorizontalAlignment="Center"/>
+        </DockPanel>
+
+        <ScrollViewer Grid.Row="1">
+            <StackPanel Margin="20">
+                <Button Content="← Back" 
+                    Grid.Row="0" Grid.Column="0"
+                    HorizontalAlignment="Left" VerticalAlignment="Top" 
+                    Margin="10,10,0,15" Padding="10,5"
+                    Background="#FF1E2A38" Foreground="White"
+                    FontWeight="Bold" BorderBrush="Transparent"
+                    Click="BackButton_Click"/>
+
+                <Grid Margin="0,0,0,20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+                        <Image Source="psg_logo.png" Width="60" Height="60"/>
+                        <TextBlock Text="Paris SG" FontWeight="Bold" FontSize="16" HorizontalAlignment="Center"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" HorizontalAlignment="Center" Margin="20,0">
+                        <TextBlock Text="{Binding Date}" FontSize="14" HorizontalAlignment="Center"/>
+                        <TextBlock Text="{Binding Competition}" FontSize="14" HorizontalAlignment="Center"/>
+                        <TextBlock Text="{Binding Stadium}" FontSize="12" HorizontalAlignment="Center" Foreground="Gray"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2" HorizontalAlignment="Center">
+                        <Image Source="{Binding TeamPhotoPath}" Width="60" Height="60"/>
+                        <TextBlock Text="{Binding Team}" FontWeight="Bold" FontSize="16" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Grid>
+
+                <Grid Grid.Row="1" VerticalAlignment="Center">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0">
+                        <TextBlock Text="Victory Probability" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+                                <TextBlock Text="Win" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" />
+                                <TextBlock Text="{Binding Win}" FontSize="16" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                                <TextBlock Text="Draw" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" />
+                                <TextBlock Text="{Binding Draw}" FontSize="16" HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="2" HorizontalAlignment="Center">
+                                <TextBlock Text="Lose" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" />
+                                <TextBlock Text="{Binding Lose}" FontSize="16" HorizontalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <DockPanel Grid.Row="2" Background="#FF1E2A38">
+            <Button x:Name="bt_players" Content="Team Overview" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" BorderBrush="Transparent" Click="bt_players_Click"/>
+            <Button x:Name="bt_team" Content="Lineup" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" FontWeight="Bold" Click="bt_team_Click"/>
+            <Button x:Name="bt_matches" Content="Matches" DockPanel.Dock="Left" Background="Transparent" Foreground="White" Width="150" BorderBrush="Transparent" Click="bt_matches_Click"/>
+        </DockPanel>
+    </Grid>
+</Page>
